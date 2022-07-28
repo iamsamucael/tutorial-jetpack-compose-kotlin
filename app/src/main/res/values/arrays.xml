@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="roles">
+        <item>Admin</item>
+        <item>Employee</item>
+        <item>Client</item>
+    </string-array>
+
+
+
+</resources>
